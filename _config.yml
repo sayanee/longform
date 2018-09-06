@@ -1,0 +1,6 @@
+title: Longform
+subtitle: my longform reading notes
+description: Reading notes from research papers, white papers, shareholder letters, regulations and law
+url: "https://longform.sayan.ee"
+markdown: kramdown
+permalink: /:title
