@@ -276,6 +276,9 @@ a {
   margin: 0;
   font-weight: normal; }
 
+.subtitle {
+  text-align: center; }
+
 .meta {
   font-size: 0.9em;
   color: #1cbd49; }
