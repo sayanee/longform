@@ -41,7 +41,7 @@ TCP handshake
 
 Encrypted handshake in the Particle TCP service
 
-![](img/particle-io-security-checklist.jpg)
+![](img/tcp-handshake.jpg)
 
 UDP Services
 
