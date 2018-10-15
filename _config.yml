@@ -1,6 +1,6 @@
 title: Longform
 subtitle: my longform reading notes
-description: Reading notes from research papers, white papers, shareholder letters, blog posts, regulations and law
+description: Reading notes from <code>research paper</code>, <code>whitepaper</code>, <code>shareholder letter</code>, <code>interview</code>, <code>regulation</code> and <code>law</code>
 url: "https://longform.sayan.ee"
 markdown: kramdown
 permalink: /:title
