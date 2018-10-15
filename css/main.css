@@ -244,6 +244,8 @@ td {
       background: #1cbd49;
       cursor: pointer;
       color: #fff; }
+      .post-list tr:hover code {
+        color: rgba(0, 0, 0, 0.8); }
   .post-list th, .post-list td {
     padding: 1em; }
 
