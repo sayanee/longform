@@ -18,7 +18,9 @@ Design for convexity so that you are harmed less by an error and benefit when th
 
 > Critically, convex payoffs benefit from uncertainty and disorder. The nonlinear properties of the payoff function, that is, convexity, allow us to formulate rational and rigorous research policies, and ones that allow the harvesting of randomness... The implication is that **you are harmed much less by an error** (or a variation) than you can benefit from it, **you would welcome uncertainty in the long run**.
 
-Convexity allows us the option, no obligation to keep the results
+![](img/payoffs.jpg)
+
+Convexity allows us the option, not obligation to keep the results
 
 > Critically **we have the option, not the obligation to keep the result**, which allows us to retain the upper bound and be unaffected by adverse outcomes. This "optionality" is what is behind the convexity of research outcomes. **An option allows its user to get more upside than downside as he can select among the results what fits him and forget about the rest** (he has the option, not the obligation).
 
@@ -29,6 +31,8 @@ Why evolution is an example of a convex function?
 Convexity bias
 
 > Let us call the "convexity bias" the **difference between the results of trial and error in which gains and harm are equal (linear), and one in which gains and harm are asymmetric (to repeat, a convex payoff function)**. The central and useful properties are that a) The more convex the payoff function, expressed in difference between potential benefits and harm, the larger the bias. b) The more volatile the environment, the larger the bias. This last property is missed as **humans have a propensity to hate uncertainty**.
+
+![](img/convexity-bias.jpg)
 
 How convexity bias can be used
 
