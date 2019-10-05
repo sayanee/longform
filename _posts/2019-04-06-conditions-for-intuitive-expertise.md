@@ -6,6 +6,13 @@ category: paper
 author:  Daniel Kahneman and Gary Klein
 ---
 
+## Summary
+
+- Access to high-validity environments
+- Has adequate opportunity to learn
+- Has sufficient regularity and predictability of outcomes
+- Has specific immediate feedback
+
 Not all experiences create skilled intuitive judgement with time
 
 > What are the activities in which **skilled intuitive judgment develops with experience**? What are the activities in which experience is more likely to produce overconfidence than genuine skill?
