@@ -4,7 +4,6 @@ title:  "When Intentions Go Public"
 source: https://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf
 author: Peter M. Gollwitzer, Paschal Sheeran, Verena Michalski, and Andrea E. Seifert
 category: research paper
-
 ---
 
 General summary

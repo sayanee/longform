@@ -3,7 +3,6 @@ layout: post
 title:  "Shareholder's letter from Jeff Bezos"
 source: http://www.zachpfeffer.com/single-post/2017/10/21/Links-to-all-of-Jeff-Bezos-Letters-to-Shareholders-1997---2017
 category: shareholder letter
-
 ---
 
 Despite the letters being written for 20 years, 2 decades, there were some themes that held consistent:

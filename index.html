@@ -16,7 +16,7 @@ layout: default
     {% for post in site.posts %}
       <tr class="click-row" data-href="{{ post.url | prepend: site.baseurl }}">
         <td>{{ post.date | date: "%-d %b %Y" }}</td>
-        <td>{{ post.title }} {% if post.category %}<code>{{ post.category }}</code>{% endif %}</td>
+        <td>{{ post.title }} {% if post.category %}<code>{{ post.category }}</code>{% endif %} {% if post.author %}<em>by {{ post.author }}</em>{% endif %}</td>
       </tr>
     {% endfor %}
   </table>

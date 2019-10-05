@@ -3,7 +3,6 @@ layout: post
 title:  "Exclusive: Spotify CEO Daniel Ek on Apple, Facebook, Netflix–and the future"
 source: https://www.fastcompany.com/90213545/exclusive-spotify-ceo-daniel-ek-on-apple-facebook-netflix-and-the-future-of-music
 category: interview
-
 ---
 
 Innovation is collaboration

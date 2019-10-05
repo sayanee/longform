@@ -4,7 +4,6 @@ title:  "Von Neumann's First Computer Program"
 source: https://fermatslibrary.com/s/von-neumanns-first-computer-program
 author: Donald E. Knuth
 category: research paper
-
 ---
 
 History of instruction codes

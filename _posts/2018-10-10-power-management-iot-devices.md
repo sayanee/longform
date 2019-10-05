@@ -3,7 +3,6 @@ layout: post
 title:  "Power Management for IoT Devices"
 source: https://www.particle.io/resources/power-management-for-iot-devices
 category: whitepaper
-
 ---
 
 IoT components using power:

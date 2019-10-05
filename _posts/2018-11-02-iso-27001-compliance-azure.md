@@ -3,7 +3,6 @@ layout: post
 title:  "13 Effective Security Controls for ISO 27001 Compliance"
 source: https://www.technologyreview.com/s/611948/for-safetys-sake-we-must-slow-innovation-in-internet-connected-things/
 category: docs
-
 ---
 
 Recommendations
