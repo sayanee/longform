@@ -1,0 +1,17 @@
+<span class="tag is-warning is-light">
+  {{ post.date | date: "%-d %b %Y" }}
+</span>
+
+{% if post.author %}
+<span class="tag is-info is-light">
+  {{ post.author }}
+</span>
+{% endif %}
+
+{% if post.category %}
+<span class="tag is-danger is-light">
+  {{ post.category }}
+</span>
+{% endif %}
+
+

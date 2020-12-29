@@ -2,31 +2,26 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 class="title">{{ site.title }}</h1>
-
-  <p class="subtitle">{{ site.posts | size }} {{ site.description }}</p>
-  <table class="post-list">
-    <thead>
-      <tr>
-        <th>date</th>
-        <th>title</th>
-      </tr>
-    </thead>
-    {% for post in site.posts %}
-      <tr class="click-row" data-href="{{ post.url | prepend: site.baseurl }}">
-        <td>{{ post.date | date: "%-d %b %Y" }}</td>
-        <td>{{ post.title }} {% if post.category %}<code>{{ post.category }}</code>{% endif %} {% if post.author %}<em>by {{ post.author }}</em>{% endif %}</td>
-      </tr>
-    {% endfor %}
-  </table>
-</div>
-
-<script>
-  var elements = document.getElementsByClassName("click-row")
-  Array.prototype.forEach.call(elements, function(el) {
-    el.addEventListener('click', function() {
-      window.location.href = this.dataset.href
-    })
-  })
-</script>
+<section class="section is-small">
+  <div class="container">
+    <div class="content is-large">
+      <table class="table">
+        <tbody>
+          {% for post in site.posts %}
+            <tr>
+              <td>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <p class="is-hidden-tablet">
+                  {% include info.html %}
+                </p>
+              </td>
+              <td class="has-text-right is-hidden-mobile">
+                {% include info.html %}
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>

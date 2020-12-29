@@ -1,27 +1,78 @@
----
-layout: default
----
-<article>
-  <header>
-    <p class="meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-      {% if page.author %} • by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-       •
-      <span title="Estimated read time">
-        {% assign words = content | number_of_words %}
-        {% if words < 360 %}
-          1 min
-        {% else %}
-          {{ words | divided_by:180 }} mins
-        {% endif %}
-      </span>
-      {% if page.category %} • <span>in {{ page.category }}</span>{% endif %}
-    </p>
-    <p><a href="{{ page.source }}">original link</a></p>
-    <h1>{{ page.title }}</h1>
-  </header>
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="has-navbar-fixed-top">
+  {% include nav.html %}
+  <section class="is-medium">
+    <div class="container">
+      <div class="content is-large">
+        <h1 class="title my-6">{{ page.title }}</h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-</article>
+        <div class="field is-grouped is-grouped-multiline">
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-medium is-light"></span>
+              <a class="tag is-medium is-primary is-light" href="{{ page.source }}">original link</a>
+            </div>
+          </div>
+
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-medium is-light">date</span>
+              <span class="tag is-medium is-warning is-light">{{ page.date | date: "%b %-d, %Y" }}</span>
+            </div>
+          </div>
+
+          {% if page.author %}
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-medium is-light">authors</span>
+              <span class="tag is-medium is-info is-light">{{ page.author }}</span>
+            </div>
+          </div>
+          {% endif %}
+
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-medium is-light">reading time</span>
+              <span class="tag is-medium is-success is-light">
+                {% assign words = content | number_of_words %}
+                {% if words < 360 %}
+                  1 min
+                {% else %}
+                  {{ words | divided_by:180 }} mins
+                {% endif %}
+              </span>
+            </div>
+          </div>
+
+          {% if page.category %}
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-medium is-light">category</span>
+              <span class="tag is-medium is-danger is-light">{{ page.category }}</span>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+
+        {{ content }}
+
+      </div>
+    </div>
+  </section>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="">original link</a>
+

@@ -3,7 +3,7 @@ layout: post
 title:  "Towards an Untrepreneurial Economy: The Entrepreneurship Industry and the Rise of the Veblenian Entrepreneur"
 source: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042
 category: research paper
-author: Rasmus Koss Hartmann, Anders D. Krabbe, André Spicer
+author: Hartmann, Krabbe, Spicer
 ---
 
 ## Definitions

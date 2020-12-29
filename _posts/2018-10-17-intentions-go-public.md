@@ -2,7 +2,7 @@
 layout: post
 title:  "When Intentions Go Public"
 source: https://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf
-author: Peter M. Gollwitzer, Paschal Sheeran, Verena Michalski, and Andrea E. Seifert
+author: Gollwitzer, Sheeran, Michalski, Seifert
 category: research paper
 ---
 
@@ -18,7 +18,7 @@ Long paragraph, but let's deconstruct it
 
 > ... people who are committed to identity goals (e.g., becoming a good parent, scientist, or craftsperson) can undertake a variety of activities to claim goal attainment. For a scientist, such activities, or identity symbols, include engaging in professional duties (e.g., giving lectures), making positive self-descriptions (e.g., I discovered a new principle!), exerting identity-relevant social influence (e.g., advising students), and acquiring skills and tools that facilitate striving for the identity goal (e.g., programming skills, computers). However, **failing to perform an identity-relevant activity or facing the lack of an identity symbol produces a state of incompleteness**. To restore completeness, the **individual makes efforts to acquire alternative identity symbols** e.g., describing oneself as having the required personality attributes, engaging in identity-relevant activities, showing off relevant status symbols. Using opportunities to affirm one’s general self-integrity or to bolster one’s self-esteem is not sufficient to offset incompleteness regarding an identity goal; rather, it is necessary to acquire specific identity symbols.
 
-Examples of identity goals
+Examples of identity goals:
 
 - a good parent
 - scientist
