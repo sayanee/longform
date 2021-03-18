@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Why Is Apple’s M1 Chip So Fast?"
-source: https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2
+title:  "Platform Adjacency Theory"
+source: https://infrequently.org/2020/06/platform-adjacency-theory/
 category: blog
-author: Erik Engheim
+author: Alex Russell
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Definitions](#definitions)
-- [Differences](#differences)
-- [Optimization](#optimization)
+- [Meta Platforms](#meta-platforms)
+- [Adding features](#adding-features)
+- [Challenges of developments](#challenges-of-developments)
+- [The Web](#the-web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -90,7 +91,7 @@ You can simply continue to just "improve" and optimise to stay relevant
 
 > If iteration can unlock outsized value, you'll know it by investigating the performance of the best-constructed apps on your platform. My experience from a decade of platform work, though, suggests that efficiency gains are most often returned to developer comfort rather than user experience. What can be built is often the same at the start and end of an optimisation journey unless the gains are at least an order of magnitude.
 
-## The web
+## The Web
 
 Benifits
 
