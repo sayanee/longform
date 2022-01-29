@@ -5,6 +5,33 @@ source: https://www.inter.ikea.com/en/-/media/InterIKEA/IGI/Financial%20Reports/
 author: Ingvar Kamprad
 category: docs
 ---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Product](#product)
+- [Ikea Spirit](#ikea-spirit)
+- [Profit](#profit)
+- [Small means](#small-means)
+- [Simplcity](#simplcity)
+- [Different](#different)
+- [Focus](#focus)
+- [Responsibilty](#responsibilty)
+- [Future](#future)
+- [Dictionary](#dictionary)
+  - [Humbleness](#humbleness)
+  - [Willpower](#willpower)
+  - [Experience](#experience)
+  - [Never say never](#never-say-never)
+  - [Right to make mistakes](#right-to-make-mistakes)
+  - [The IKEA way](#the-ikea-way)
+  - [Bureaucracy](#bureaucracy)
+  - [Cost-conscious](#cost-conscious)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 > No method is more effective than the good example.
 
 Good for customers is good for the company
