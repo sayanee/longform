@@ -9,6 +9,7 @@ serve: ## Start Jekyll server locally
 	bundle exec jekyll serve
 
 install: ## Install dependancies
+	rm Gemfile.lock
 	bundle install
 
 draft: ## Start the Jekyll serve with draft posts
