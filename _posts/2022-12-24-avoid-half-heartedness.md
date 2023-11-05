@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "how to avoid half-heartedness"
+author: Ava
 source: https://ava.substack.com/p/how-to-avoid-half-heartedness
 category: blog
 ---
