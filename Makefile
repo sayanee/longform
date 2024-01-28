@@ -24,3 +24,6 @@ leftover:
 	months_left=$$(echo "scale=2; ($$current_drafts / (3 * 4.33))" | bc); \
 	echo "Current drafts: $$current_drafts"; \
 	echo "Approximately $$months_left months left at 3 drafts per week."
+
+move_draft:
+	mv _drafts/$(shell ls -1 _drafts | sort | head -n 1) _posts/
