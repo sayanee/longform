@@ -1,4 +1,4 @@
-.PHONY: help serve install draft update leftover
+.PHONY: help serve install draft update leftover move_draft
 
 default: serve
 
@@ -26,4 +26,6 @@ leftover:
 	echo "Approximately $$months_left months left at 3 drafts per week."
 
 move_draft:
-	mv _drafts/$(shell ls -1 _drafts | sort | head -n 1) _posts/
+	@file_to_move=$$(ls -1 _drafts | sort | head -n 1); \
+	mv _drafts/$$file_to_move _posts/; \
+	echo "Moved file: $$file_to_move"
