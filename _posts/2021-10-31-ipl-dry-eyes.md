@@ -3,7 +3,7 @@ layout: post
 title:  "Intense Pulsed Light Therapy In The Treatment Of Meibomian Gland Dysfunction: Current Perspectives"
 source: https://pubmed.ncbi.nlm.nih.gov/31802961/
 author: Giannaccare1, Taroni, Senni, Scorcia
-category: research paper
+category: [5]
 ---
 
 ## Abbreviations

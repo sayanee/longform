@@ -3,7 +3,7 @@ layout: post
 title:  "How to Mentor Interns to Become Skillful Engineers"
 author: Eman Hassan
 source: https://slack.engineering/how-to-mentor-interns-to-become-skillful-engineers/
-category: blog
+category: [6]
 ---
 
 Why internships are important for companies and interns

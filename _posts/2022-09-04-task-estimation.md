@@ -3,7 +3,7 @@ layout: post
 title:  "How to think about task estimation"
 author: David R. Maciver
 source: https://drmaciver.substack.com/p/task-estimation-101
-category: blog
+category: [6]
 ---
 
 Common question

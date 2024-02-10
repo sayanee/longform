@@ -3,7 +3,7 @@ layout: post
 title:  "The Story of Singapore"
 source: https://perell.com/essay/story-of-singapore/
 author: David Perell
-category: blog
+category: [6]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

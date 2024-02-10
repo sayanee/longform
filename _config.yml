@@ -1,5 +1,18 @@
 title: Longform
-description: reading notes from <code>research paper</code>, <code>whitepaper</code>, <code>shareholder letter</code>, <code>interview</code>, <code>regulation</code>, <code>law</code>, <code>docs</code>, <code>slides</code> and <code>blog</code>
+description: reading notes
 url: "https://longform.sayan.ee"
 markdown: kramdown
 permalink: /:title
+category_mapping:
+  1: "shareholder letter"
+  2: "interview"
+  3: "regulation"
+  4: "whitepaper"
+  5: "research paper"
+  6: "blog"
+  7: "article"
+  8: "slides"
+  9: "report"
+  10: "law"
+  11: "docs"
+  12: "news"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Chipping Away at Moore’s Law"
 source: https://queue.acm.org/detail.cfm?id=3388515
-category: blog
+category: [6]
 author: Jessie Frazelle
 ---
 

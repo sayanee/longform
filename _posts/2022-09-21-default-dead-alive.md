@@ -3,7 +3,7 @@ layout: post
 title:  "Default Alive or Default Dead?"
 author: Paul Graham
 source: https://paulgraham.com/aord.html
-category: blog
+category: [6]
 ---
 
 Ambitious new things or save it?

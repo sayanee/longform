@@ -3,7 +3,7 @@ layout: post
 title:  "How to Use Block Scheduling to Revamp Your Workflow"
 author: Kenneth R. Rosen
 source: https://www.wired.com/story/block-scheduling-calendar-workflow-productivity/
-category: blog
+category: [6]
 ---
 
 Block scheduling is a superset of Pomodoro method

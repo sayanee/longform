@@ -3,7 +3,7 @@ layout: post
 title:  "Pay attendion to deviations from mainstream"
 author: Cedric Chin
 source: https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/
-category: blog
+category: [6]
 ---
 
 Empowered to do something different and specific

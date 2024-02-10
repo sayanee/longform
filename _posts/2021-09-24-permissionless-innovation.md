@@ -3,7 +3,7 @@ layout: post
 title: "Embracing a Culture of Permissionless Innovation"
 source: https://www.cato.org/cato-online-forum/embracing-culture-permissionless-innovation
 author: Adam D. Thierer
-category: article
+category: [7]
 ---
 
 What specific forces and policies that prompt long‐​term growth? Institutional factors yes!

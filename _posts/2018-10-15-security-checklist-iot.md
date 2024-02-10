@@ -2,7 +2,7 @@
 layout: post
 title:  "Security Checklist for the Internet of Things"
 source: https://www.particle.io/resources/securing-internet-of-things-products/
-category: whitepaper
+category: [4]
 ---
 
 Risks include:

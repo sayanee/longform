@@ -3,7 +3,7 @@ layout: post
 title: "Simple Product Management Tricks"
 source: https://jacobian.org/2021/oct/20/simple-pm-tricks/
 author: Jacob Kaplan-Moss
-category: article
+category: [7]
 ---
 
 Perform an effort/impact analysis for all tasks / features

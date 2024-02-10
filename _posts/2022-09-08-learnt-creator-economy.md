@@ -3,7 +3,7 @@ layout: post
 title:  "What I've learned from a year-long dive into the Creator Economy"
 author: Ashley R. Cummings
 source: https://hashtagpaid.com/banknotes/dive-into-the-creator-economy
-category: blog
+category: [6]
 ---
 
 Economic power shift with creator economy and the great resignation

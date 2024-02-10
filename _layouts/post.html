@@ -49,7 +49,17 @@
           <div class="control">
             <div class="tags has-addons">
               <span class="tag is-medium is-light">category</span>
-              <span class="tag is-medium is-danger is-light">{{ page.category }}</span>
+              <span class="tag is-medium is-danger is-light">
+                {% assign category_mapping = site.category_mapping %}
+                {% if page.category %}
+                {% for category_number in page.category %}
+                {% assign category_number = category_number | plus: 1 | strip %}
+                {% if category_mapping[category_number] %}
+                  {{ category_mapping[category_number] }}
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+              </span>
             </div>
           </div>
           {% endif %}

@@ -3,7 +3,7 @@ layout: post
 title:  "Q&A: Why a Rested Brain Is More Creative"
 author: Ferris Jabr
 source: https://www.scientificamerican.com/article/q-a-why-a-rested-brain-is-more-creative/
-category: blog
+category: [6]
 ---
 
 > respite is an essential component of both productivity and creativity

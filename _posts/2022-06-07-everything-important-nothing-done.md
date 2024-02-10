@@ -3,7 +3,7 @@ layout: post
 title:  "When Everything is Important But Nothing is Getting Done"
 author: Roman Kudryashov
 source: https://sharedphysics.com/everything-is-important/
-category: blog
+category: [6]
 ---
 
 The typical challenge

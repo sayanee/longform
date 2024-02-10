@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mundanity of Excellence"
 source: https://www.scribd.com/doc/2926754/The-Mundanity-of-Excellence
-category: paper
+category: [5]
 author: Daniel F. Chambliss
 ---
 

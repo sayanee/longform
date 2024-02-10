@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Be Successful"
 source: https://blog.samaltman.com/how-to-be-successful
-category: blog
+category: [6]
 author: Sam Altman
 ---
 

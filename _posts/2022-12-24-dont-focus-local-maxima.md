@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Focus on Local Maxima"
 author: Nat Eliason
 source: https://www.nateliason.com/blog/local-maxima
-category: blog
+category: [6]
 ---
 
 Definition

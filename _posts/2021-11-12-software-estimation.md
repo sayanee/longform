@@ -3,7 +3,7 @@ layout: post
 title: "My Software Estimation Technique"
 source: https://jacobian.org/2021/may/25/my-estimation-technique/
 author: Jacob Kaplan-Moss
-category: article
+category: [7]
 ---
 
 Time and uncertainty

@@ -2,7 +2,7 @@
 layout: post
 title:  "An Ethical Framework for Evaluating Experimental Technology?"
 source: https://pubmed.ncbi.nlm.nih.gov/26573302/
-category: research paper
+category: [5]
 author: Ibo van de Poel
 ---
 

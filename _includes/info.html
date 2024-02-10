@@ -10,8 +10,6 @@
 
 {% if post.category %}
 <span class="tag is-danger is-light">
-  {{ post.category }}
+  {% include categories.html %}
 </span>
 {% endif %}
-
-

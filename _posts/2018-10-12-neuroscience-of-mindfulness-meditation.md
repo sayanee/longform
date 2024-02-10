@@ -3,7 +3,7 @@ layout: post
 title:  "The neuroscience of mindfulness meditation"
 author: Yi‐Yuan Tang, Britta K. Hölzel and Michael I. Posner
 source: http://www.awakeatwork.net/sites/default/files/Tang_1426855548_1%20-final.pdf
-category: research paper
+category: [5]
 ---
 
 This paper contains a pretty balanced view of meditation and what we have discovered so far through scientific methods. It thoroughly acknowledges that more test need to be done to make a firmer conclusion in the future.

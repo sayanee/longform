@@ -3,7 +3,7 @@ layout: post
 title:  "How patience pays off"
 author: Nat Eliason
 source: https://www.permanentequity.com/content/how-patience-pays-off
-category: blog
+category: [6]
 ---
 
 > “Patience is waiting. Not passively waiting. That is laziness. But to keep going when the going is hard and slow – that is patience. The two most powerful warriors are patience and time.” — Leo Tolstoy

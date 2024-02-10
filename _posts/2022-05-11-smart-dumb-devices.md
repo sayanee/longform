@@ -3,7 +3,7 @@ layout: post
 title:  "Forget ‘smart’ Vs. ‘dumb’ Devices: The Future Of IoT Hinges On Connected Insight"
 author: T-Mobile for Business
 source: https://www.forbes.com/sites/tmobile/2020/07/09/forget-smart-vs-dumb-devices-the-future-of-iot-hinges-on-connected-insight/?sh=26985e9045bc
-category: news
+category: [12]
 ---
 
 Meaning of unconnected device

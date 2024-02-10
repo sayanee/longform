@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding is a poor substitute for Convexity (Anti-fragility)"
 source: https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility
-category: blog
+category: [6]
 author:  Nassim Nicholas Taleb
 ---
 

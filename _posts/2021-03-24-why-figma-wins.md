@@ -3,6 +3,7 @@ layout: post
 title:  "Why Figma Wins?"
 source: https://kwokchain.com/2020/06/19/why-figma-wins/
 author: Kevin Kwok
+category: [6]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

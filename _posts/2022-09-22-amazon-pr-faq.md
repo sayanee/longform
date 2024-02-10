@@ -3,7 +3,7 @@ layout: post
 title:  "Putting Amazon’s PR/FAQ to Practice"
 author: Cedric Chin
 source: https://commoncog.com/putting-amazons-pr-faq-to-practice/
-category: blog
+category: [6]
 ---
 
 What is the working backwards of PR/FAQ process?

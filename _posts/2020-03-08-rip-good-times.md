@@ -2,7 +2,7 @@
 layout: post
 title:  "R.I.P. Good Times by Sequoia Capital"
 source: https://www.sequoiacap.com/article/rip-good-times
-category: blog
+category: [6]
 author: Sequoia Capital
 ---
 

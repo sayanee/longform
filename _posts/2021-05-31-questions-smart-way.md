@@ -3,6 +3,7 @@ layout: post
 title:  "How To Ask Questions The Smart Way"
 source: http://www.catb.org/~esr/faqs/smart-questions.html
 author: Eric Steven Raymond
+category: [11]
 ---
 
 ## Before asking

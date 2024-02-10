@@ -3,7 +3,7 @@ layout: post
 title:  "The Road to Self-Renewal"
 author: John Gardner
 source: https://gsb-courses.stanford.edu/building-innovative-brands/wp-content/uploads/sites/25/2022/04/johngardner-roadtoself-renewal2.pdf
-category: paper
+category: [7]
 ---
 
 Why do people stop learning later in their lives?

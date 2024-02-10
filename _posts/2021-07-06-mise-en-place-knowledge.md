@@ -3,7 +3,7 @@ layout: post
 title:  "Mise-en-Place for Knowledge Workers: 6 Practices for Working Clean"
 source: https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/
 author: Tiago Forte
-category: blog
+category: [6]
 ---
 
 ## Definition of Mise-En-Place

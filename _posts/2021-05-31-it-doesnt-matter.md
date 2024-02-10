@@ -3,6 +3,7 @@ layout: post
 title:  "IT Doesn’t Matter"
 source: https://hbswk.hbs.edu/archive/why-it-doesn-t-matter-anymore
 author: Nicholas G. Carr
+category: [7]
 ---
 
 ## Proprietary vs Infrastructural

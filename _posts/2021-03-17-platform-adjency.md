@@ -2,7 +2,7 @@
 layout: post
 title:  "Platform Adjacency Theory"
 source: https://infrequently.org/2020/06/platform-adjacency-theory/
-category: blog
+category: [6]
 author: Alex Russell
 ---
 

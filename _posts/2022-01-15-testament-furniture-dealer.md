@@ -3,7 +3,7 @@ layout: post
 title:  "The Testament of a Furniture Dealer"
 source: https://www.inter.ikea.com/en/-/media/InterIKEA/IGI/Financial%20Reports/English_The_testament_of_a_dealer_2018.pdf
 author: Ingvar Kamprad
-category: docs
+category: [11]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

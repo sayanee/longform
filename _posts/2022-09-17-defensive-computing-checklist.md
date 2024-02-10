@@ -3,7 +3,7 @@ layout: post
 title:  "A Defensive Computing Checklist"
 author: Michael Horowitz
 source: https://defensivecomputingchecklist.com/rulesoftheroad.php
-category: document
+category: [11]
 ---
 
 Spams

@@ -3,7 +3,7 @@ layout: post
 title:  "Methodology: Privacy Not Included"
 author: Mozilla Foundation
 source: https://foundation.mozilla.org/en/privacynotincluded/about/methodology/
-category: paper
+category: [5]
 ---
 
 Questions asked for evaluation

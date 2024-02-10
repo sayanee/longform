@@ -3,7 +3,7 @@ layout: post
 title:  "The Arc of the Practical Creator"
 author: Lawrence Yeo
 source: https://moretothat.com/the-arc-of-the-practical-creator/
-category: blog
+category: [6]
 ---
 
 A painting class, but don't become a painter

@@ -2,7 +2,7 @@
 layout: post
 title:  "Should the web expose hardware capibilities"
 source: https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities/
-category: blog
+category: [6]
 author: Noam Rosenthal
 ---
 

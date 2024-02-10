@@ -2,7 +2,7 @@
 layout: post
 title:  "PCB Design tutorial"
 source: https://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf
-category: paper
+category: [5]
 author: David L. Jones
 ---
 
@@ -253,4 +253,4 @@ Where can we use auto-routing?
 
 ## Manufacturing
 
-> A PCB usually consists of a blank fibreglass substrate (“the board”), which is usually 1.6mm thick. Other **common thicknesses are 0.8mm and 2.4mm**. There are many types PCB substrate material, but by far the most common is a **standard woven epoxy glass material known as FR4**. 
+> A PCB usually consists of a blank fibreglass substrate (“the board”), which is usually 1.6mm thick. Other **common thicknesses are 0.8mm and 2.4mm**. There are many types PCB substrate material, but by far the most common is a **standard woven epoxy glass material known as FR4**.

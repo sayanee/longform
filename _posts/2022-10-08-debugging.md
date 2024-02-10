@@ -3,7 +3,7 @@ layout: post
 title:  "Some ways to get better at debugging"
 author: Julia Evans
 source: https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/
-category: blog
+category: [6]
 ---
 
 Steps:

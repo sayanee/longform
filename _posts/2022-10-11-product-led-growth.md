@@ -3,7 +3,7 @@ layout: post
 title:  "Why Everyone Is Talking About Product-Led Growth"
 author: Jenny Farver
 source: https://8thlight.com/insights/why-everyone-is-talking-about-product-led-growth
-category: blog
+category: [6]
 ---
 
 Buying patterns in younger gen buyers

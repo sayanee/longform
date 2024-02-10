@@ -2,7 +2,7 @@
 layout: post
 title:  "The theory of Peak Advertising and the Future of the Web"
 source: http://peakads.org/images/Peak_Ads.pdf
-category: paper
+category: [5]
 author:  Tim Hwang and Adi Kamdar
 ---
 

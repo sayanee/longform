@@ -3,7 +3,7 @@ layout: post
 title:  "File not Found"
 source: https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z
 author: Monica Chin
-category: article
+category: [7]
 ---
 
 Gen Z don't search manually for a file using the tree structure. They just search.

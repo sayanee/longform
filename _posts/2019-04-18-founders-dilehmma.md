@@ -2,7 +2,7 @@
 layout: post
 title:  "The Founder’s Dilemma"
 source: https://hbr.org/2008/02/the-founders-dilemma
-category: article
+category: [7]
 author:  Noam Wasserman
 ---
 

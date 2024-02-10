@@ -2,7 +2,7 @@
 layout: post
 title:  "Seven tough lessons from ten years in bootstrapped business"
 source: https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/
-category: blog
+category: [6]
 author: Alex Balashov
 ---
 

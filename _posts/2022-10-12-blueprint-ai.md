@@ -3,7 +3,7 @@ layout: post
 title:  "Blueprint for an AI Bill of Rights"
 author: White House
 source: https://www.whitehouse.gov/ostp/ai-bill-of-rights/
-category: gov
+category: [3]
 ---
 
 Challenge of today

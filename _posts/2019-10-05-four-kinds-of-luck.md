@@ -2,7 +2,7 @@
 layout: post
 title:  "The four kinds of luck"
 source: https://pmarchive.com/luck_and_the_entrepreneur.html
-category: blog
+category: [6]
 author:  Marc Andreessen
 ---
 

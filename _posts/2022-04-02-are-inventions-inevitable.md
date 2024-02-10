@@ -3,7 +3,7 @@ layout: post
 title:  "Are inventions inevitable"
 author: Martin Griswold
 source: https://mgriz.wordpress.com/2012/11/25/are-inventions-inevitable-simultaneous-invention-and-the-incremental-nature-of-discovery/
-category: blog
+category: [6]
 ---
 
 The light bulb would have still been invented without Thomas Edison

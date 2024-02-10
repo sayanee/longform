@@ -3,7 +3,7 @@ layout: post
 title:  "The Perils of Audience Capture"
 author: Gurwinder
 source: https://gurwinder.substack.com/p/the-perils-of-audience-capture
-category: blog
+category: [6]
 ---
 
 Example of audience capture

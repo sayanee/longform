@@ -1,0 +1,9 @@
+{% assign category_mapping = site.category_mapping %}
+{% if post.category %}
+{% for category_number in post.category %}
+{% assign category_number = category_number | plus: 1 | strip %}
+{% if category_mapping[category_number] %}
+  {{ category_mapping[category_number] }}
+{% endif %}
+{% endfor %}
+{% endif %}

@@ -3,7 +3,7 @@ layout: post
 title:  "103 Bits of Advice I Wish I Had Known"
 author: Kevin Kelly
 source: https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
-category: blog
+category: [6]
 ---
 
 Schedule breaks!

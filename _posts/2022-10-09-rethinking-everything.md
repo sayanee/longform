@@ -3,7 +3,7 @@ layout: post
 title:  "The Case for Rethinking Everything"
 author: Mike Danaher
 source: https://8thlight.com/insights/the-case-for-rethinking-everything
-category: blog
+category: [6]
 ---
 
 ## Challenge

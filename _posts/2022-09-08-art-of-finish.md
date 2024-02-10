@@ -3,7 +3,7 @@ layout: post
 title:  "The Art of the Finish"
 author: Scott H Young
 source: https://www.scotthyoung.com/blog/2007/10/18/the-art-of-the-finish-how-to-go-from-busy-to-accomplished/
-category: blog
+category: [6]
 ---
 
 Misconception: Productivity is not Finishing something

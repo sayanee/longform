@@ -3,7 +3,7 @@ layout: post
 title:  "The AI Unbundling"
 author: Ben Thompson
 source: https://stratechery.com/2022/the-ai-unbundling/
-category: blog
+category: [6]
 ---
 
 Newspaper don't provide the news, but the distribution of the news

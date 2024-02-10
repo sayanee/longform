@@ -2,7 +2,7 @@
 layout: post
 title:  "A Mathematician’s Lament"
 source: https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
-category: paper
+category: [5]
 author:  Paul Lockhart
 ---
 
@@ -162,4 +162,4 @@ Start with the problems
 
 Education guarantee?
 
-> SIMPLICIO: But then how can schools guarantee that their students will all have the same basic knowledge? How will we accurately measure their relative worth? SALVIATI: They can’t, and we won’t. Just like in real life. Ultimately you have to face the fact that **people are all different, and that’s just fine**. In any case, there’s no urgency. 
+> SIMPLICIO: But then how can schools guarantee that their students will all have the same basic knowledge? How will we accurately measure their relative worth? SALVIATI: They can’t, and we won’t. Just like in real life. Ultimately you have to face the fact that **people are all different, and that’s just fine**. In any case, there’s no urgency.

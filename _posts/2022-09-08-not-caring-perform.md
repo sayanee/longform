@@ -3,7 +3,7 @@ layout: post
 title:  "Not caring lets us perform better"
 author: Michael Ashcroft
 source: https://www.michaelashcroft.org/notebook/not-caring-lets-us-perform-better
-category: blog
+category: [6]
 ---
 
 Trap

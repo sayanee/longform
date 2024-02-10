@@ -3,7 +3,7 @@ layout: post
 title:  "Duolingo: how they nailed their product and became the #1 education app"
 author: John Gardner
 source: https://gsb-courses.stanford.edu/building-innovative-brands/wp-content/uploads/sites/25/2022/04/johngardner-roadtoself-renewal2.pdf
-category: blog
+category: [6]
 ---
 
 Monetizing Duolingo

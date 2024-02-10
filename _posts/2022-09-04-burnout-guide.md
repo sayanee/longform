@@ -3,7 +3,7 @@ layout: post
 title:  "The Ultimate Burnout Guide"
 author: Cedric Chin
 source: https://commoncog.com/g/burnout/
-category: blog
+category: [6]
 ---
 
 3 key characteristics of burnout: Maslach Burnout Inventory (MBI)

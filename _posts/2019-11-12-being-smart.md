@@ -2,7 +2,7 @@
 layout: post
 title:  "On Being Smart"
 source: https://kam.mff.cuni.cz/~matousek/mustafa-onbeingsmart.pdf
-category: paper
+category: [5]
 author: Nabil H. Mustafa
 ---
 

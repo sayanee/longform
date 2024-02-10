@@ -3,7 +3,7 @@ layout: post
 title:  "Success and Failure at Pebble"
 author: Eric Migicovsky
 source: https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232
-category: blog
+category: [6]
 ---
 
 First breakthrough

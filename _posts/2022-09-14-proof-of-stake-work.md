@@ -3,7 +3,7 @@ layout: post
 title:  "Proof-of-Work vs. Proof-of-Stake"
 author: Mike Antolin
 source: https://www.coindesk.com/learn/proof-of-work-vs-proof-of-stake-what-is-the-difference/
-category: blog
+category: [6]
 ---
 
 definitions

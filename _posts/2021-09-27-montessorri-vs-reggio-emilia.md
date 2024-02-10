@@ -3,7 +3,7 @@ layout: post
 title:  "Reggio Emilia vs. Montessori"
 source: https://nido.edu.au/news/reggio-emilia-vs-montessori/
 author: Nido Early Schools
-category: blog
+category: [6]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

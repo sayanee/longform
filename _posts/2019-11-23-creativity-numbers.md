@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Creativity Is a Numbers Game"
 source: https://blogs.scientificamerican.com/beautiful-minds/why-creativity-is-a-numbers-game/
-category: article
+category: [7]
 author: Scott Barry Kaufman
 ---
 

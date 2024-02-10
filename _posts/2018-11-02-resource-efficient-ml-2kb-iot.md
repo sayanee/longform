@@ -2,7 +2,7 @@
 layout: post
 title:  "Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things"
 source: https://www.microsoft.com/en-us/research/publication/resource-efficient-machine-learning-2-kb-ram-internet-things/
-category: research paper
+category: [5]
 ---
 
 Summary

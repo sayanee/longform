@@ -3,6 +3,7 @@ layout: post
 title:  "Beginner's Guide to Arguing Constructively"
 source: https://liamrosen.com/arguments.html
 author: Liam Rosen
+category: [7]
 ---
 
 Destructive argument

@@ -2,7 +2,7 @@
 layout: post
 title:  "Conditions for Intuitive Expertise"
 source: https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise_A_Failure_to_Disagree
-category: paper
+category: [5]
 author:  Daniel Kahneman and Gary Klein
 ---
 

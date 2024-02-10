@@ -2,7 +2,7 @@
 layout: post
 title:  "The Real Roots of American Rage"
 source: https://www.theatlantic.com/magazine/archive/2019/01/charles-duhigg-american-anger/576424/
-category: article
+category: [7]
 author:  Charles Duhigg
 ---
 

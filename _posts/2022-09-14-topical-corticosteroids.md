@@ -3,7 +3,7 @@ layout: post
 title:  "A clinical study of the efficacy of topical corticosteroids on dry eye"
 author: Chong-qing Yang, Wen Sun, Yang-shun Gu
 source: https://pubmed.ncbi.nlm.nih.gov/16845723/
-category: paper
+category: [5]
 ---
 
 Dry eye treatment

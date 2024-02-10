@@ -2,7 +2,7 @@
 layout: post
 title:  "Towards an Untrepreneurial Economy: The Entrepreneurship Industry and the Rise of the Veblenian Entrepreneur"
 source: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042
-category: research paper
+category: [5]
 author: Hartmann, Krabbe, Spicer
 ---
 
@@ -225,6 +225,3 @@ VC funding is affected
 1. It may be prudent to **refocus policies** on enabling entrepreneurship by older, more experienced people rather than the young and inexperienced
 1. It may be important to appreciate how **policies interact with the Entrepreneurship Industry**.
 1. **Educators are complicit in marketing of the ideology of entrepreneurship** and ignoring the substantial risks that individuals incur when undertaking entrepreneurial ventures and the negative societal consequences that can arise from encouraging people to ‘be an entrepreneur’ when they lack skills and ideas to succeed.
-
-
-

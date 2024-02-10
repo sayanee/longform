@@ -2,7 +2,7 @@
 layout: post
 title:  "How Apple Is Organized for Innovation"
 source: https://hbr.org/2020/11/how-apple-is-organized-for-innovation
-category: blog
+category: [6]
 author: Joel M. Podolny and Morten T. Hansen
 ---
 
