@@ -20,7 +20,7 @@ update: ## Update ruby gems
 	bundle update
 
 leftover:
-	@current_drafts=$$(ls -al _drafts | wc -l); \
+	@current_drafts=$$(ls -al _drafts/*.md | wc -l); \
 	months_left=$$(echo "scale=2; ($$current_drafts / (3 * 4.33))" | bc); \
 	echo "Current drafts: $$current_drafts"; \
 	echo "Approximately $$months_left months left at 3 drafts per week."
