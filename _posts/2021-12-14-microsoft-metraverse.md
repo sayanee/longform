@@ -4,6 +4,7 @@ title:  "Microsoft and the Metaverse"
 author: Ben Thompson
 source: https://stratechery.com/2021/microsoft-and-the-metaverse/
 category: [6]
+keywords: ["metaverse", "AR", "VR", "Internet", "Ubiqutous"]
 ---
 
 > the Metaverse already exists, it just happens to be called the Internet.
