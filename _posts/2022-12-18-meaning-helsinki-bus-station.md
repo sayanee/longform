@@ -4,9 +4,10 @@ title:  "The Proven Path to Creating Unique and Meaningful Work"
 author: James Clear
 source: https://jamesclear.com/stay-on-the-bus
 category: [6]
+keywords: ["helsinki", "bus", "station", "revision", "originality", "persistence"]
 ---
 
-Helsink Bus Station at the start
+Helsinki Bus Station at the start
 
 > Each bus takes the **same route out of the city for at least a kilometer**, stopping at bus stop intervals along the way.
 
@@ -44,11 +45,11 @@ Differences among the average, best and the most elite
 
 Revision is done even by the best
 
-> Average fitness enthusiasts mindlessly follow the same workout routine each week. The best athletes actively critique each repetition and constantly improve their technique. It is the revision that matters most.
+> Average fitness enthusiasts mindlessly follow the same workout routine each week. The best athletes **actively critique each repetition and constantly improve their technique**. It is the revision that matters most.
 
 When does the genius reveal itself?
 
-> It’s only by staying on board that mastery reveals itself. Show up enough times to get the average ideas out of the way and every now and then genius will reveal itself.
+> It’s **only by staying on board that mastery reveals itself**. Show up enough times to get the average ideas out of the way and every now and then genius will reveal itself.
 
 We try to change often thinking it will be better
 
